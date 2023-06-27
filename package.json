@@ -1,0 +1,23 @@
+{
+  "name": "hive-employee-database",
+  "version": "1.0.0",
+  "description": "this is a command-line application that can be used to view and interact with the hive's database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelso1020/hive-employee-database.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelso1020/hive-employee-database/issues"
+  },
+  "homepage": "https://github.com/kelso1020/hive-employee-database#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "mysql2": "^3.4.2"
+  }
+}
